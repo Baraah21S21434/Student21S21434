@@ -1,0 +1,6 @@
+String student_name, email; 
+	int  student_id, Age; 
+  float marks;
+  
+print student_name, student_id, email, marks;
+
