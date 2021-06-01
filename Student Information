@@ -1,6 +1,8 @@
 String student_name, email; 
 	int  student_id, Age; 
   float marks;
+  String modulname, code;
   
 print student_name, student_id, email, marks;
 
+print the Module name and code;
